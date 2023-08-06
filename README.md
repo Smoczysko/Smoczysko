@@ -4,7 +4,7 @@
 
 ## Get in touch :mailbox:
 
-* :point_right: Twitter: <https://twitter.com/piecioshka>
+* :point_right: Twitter: <https://twitter.com/Smoczysko>
 * Instagram: <https://instagram.com/smoczysko88>
 * LinkedIn: <https://linkedin.com/in/smoczysko/>
 * Website: [<https://piecioshka.pl/blog/](https://www.dragonia.org.pl)>
