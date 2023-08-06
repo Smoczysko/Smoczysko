@@ -1,16 +1,14 @@
-### Hi there 👋
+# Łukasz Rybka — @Smoczysko
 
-<!--
-**Smoczysko/Smoczysko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:wave: Hi! I'm a developer currently living in Gdynia, Poland. I'm a CTO/co-founder of a boutique software house Cloud Corridor. As a software developer I specialize in backend development (mainly legacy apps and systems refactoring and integration) with a bit of DevOps and frontend (when needed).
 
-Here are some ideas to get you started:
+## Get in touch :mailbox:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* :point_right: Twitter: <https://twitter.com/piecioshka>
+* Instagram: <https://instagram.com/smoczysko88>
+* LinkedIn: <https://linkedin.com/in/smoczysko/>
+* Website: [<https://piecioshka.pl/blog/](https://www.dragonia.org.pl)>
+
+---
+
+![](https://komarev.com/ghpvc/?username=Smoczysko)
